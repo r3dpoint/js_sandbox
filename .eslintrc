@@ -1,0 +1,15 @@
+{
+    "rules": {
+      "no-console" : 0
+    },
+    "parserOptions": {
+      "sourceType": "module"
+    },
+    "env": {
+      "es6": true,
+      "node": true,
+      "browser": true,
+      "mocha": true
+    },
+    "extends": "eslint:recommended"
+  }

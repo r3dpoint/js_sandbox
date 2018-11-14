@@ -1,0 +1,16 @@
+{
+  "name": "js_sandbox",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint .",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "private": true,
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-plugin-transform-es2015-modules-commonjs": "*",
+    "chai": "*",
+    "eslint": "*",
+    "mocha": "*",
+    "mocha-eslint": "*"
+  }
+}
